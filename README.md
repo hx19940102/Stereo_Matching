@@ -27,3 +27,42 @@ Original Depth Map:
 Improved Depth Map:
 
 ![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/chair_res_improved.jpg)
+
+
+Original Image:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/toy.jpg)
+
+Original Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/toy_res_ori.jpg)
+
+Improved Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/toy_res_improved.jpg)
+
+
+Original Image:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/statue.jpg)
+
+Original Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/statue_res_ori.jpg)
+
+Improved Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/statue_res_improved.jpg)
+
+
+Original Image:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/piano.png)
+
+Original Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/piano_res_ori.png)
+
+Improved Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/piano_res_improved.png)
