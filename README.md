@@ -16,4 +16,14 @@ Inspired by Cross-based matching cost aggregation, I suggest a new algorithm for
 4. For every point on disparity map, repeat step 1,2,3 until we update the whole disparity map.
 
 # The result of the improved disparity map
-![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/)
+Original Image:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/chair.jpg)
+
+Original Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/chair_res_ori.jpg)
+
+Improved Depth Map:
+
+![alt text](https://github.com/hx19940102/Stereo_Matching/blob/master/images/chair_res_improved.jpg)
